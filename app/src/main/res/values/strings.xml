@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bookshelf App</string>
+    <string name="search_hint">Search for books...</string>
+    <string name="no_books_message">No books to display. Start by searching above!</string>
+    <string name="no_image">No Image</string>
+    <string name="no_image_message">No Image</string>
+    <string name="book_cover_message">Book cover</string>
+</resources>

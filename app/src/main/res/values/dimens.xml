@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="app_padding">16dp</dimen>
+    <dimen name="card_padding">8dp</dimen>
+    <dimen name="book_image_height">220dp</dimen>
+    <dimen name="vertical_spacing">16dp</dimen>
+    <dimen name="horizontal_spacing">8dp</dimen>
+    <dimen name="rounded_corner">8dp</dimen>
+    <dimen name="title_font_size">14sp</dimen>
+</resources>
